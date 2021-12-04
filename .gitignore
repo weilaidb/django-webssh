@@ -1,1 +1,4 @@
 *.pyc
+webssh/dist/*
+webssh/build/*
+webssh/manage.spec
